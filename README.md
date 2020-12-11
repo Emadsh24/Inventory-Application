@@ -1,4 +1,6 @@
 # InventoryApp
+![InventoryApp](https://github.com/Emadsh24/Inventory-Application/blob/main/Inventory-app.jpg "InventoryApp")
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0-rc.0.
 
